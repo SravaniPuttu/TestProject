@@ -7,6 +7,7 @@ public class A {
 		System.out.println("A Method");
 		System.out.println(" B Method");
 		System.out.println("C  Method");
+		System.out.println("Hello Automation");
 	}
 	
 }
